@@ -1,0 +1,10 @@
+{
+  "id": "sermon-illustration-finder",
+  "name": "Sermon Illustration Finder",
+  "version": "0.3.0",
+  "minAppVersion": "1.0.0",
+  "description": "Find sermon illustrations and quotes by theme, type, tone, audience, season or Bible passage, then insert a link, the text or the application point into your note.",
+  "author": "Myoungcheul Joo",
+  "authorUrl": "https://pkm-institute.netlify.app",
+  "isDesktopOnly": false
+}
